@@ -1,12 +1,14 @@
----
-
-```markdown
 # HTGR-sCO₂ 4E 分析本地包使用文档
 
 > **版本**：1.0  
 > **适用范围**：基于论文 *Thermo-economic and environmental analyses of supercritical carbon dioxide Brayton cycle for high temperature gas-cooled reactor (Zhou et al., 2024)* 的经济（Economic）与环境（Environmental）模块复现。
 
 ---
+
+## 📦 包结构
+
+将以下文件放在项目目录下的 `htgr_4e` 文件夹中，确保 `main_analysis.py` 与 `htgr_4e` 同级：
+
 
 ## 📦 包结构
 
