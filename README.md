@@ -1,6 +1,6 @@
 # HTGR-sCO₂ 4E 分析本地包使用文档
 
-> **版本**：1.0  
+> **版本**：0.1  
 > **适用范围**：基于论文 *Thermo-economic and environmental analyses of supercritical carbon dioxide Brayton cycle for high temperature gas-cooled reactor (Zhou et al., 2024)* 的经济（Economic）与环境（Environmental）模块复现。
 
 ---
